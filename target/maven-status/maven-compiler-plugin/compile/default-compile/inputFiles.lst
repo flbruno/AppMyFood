@@ -1,0 +1,13 @@
+/home/bruno/Work/mobile/appmyfood/src/main/java/com/example/core/entity/Food.java
+/home/bruno/Work/mobile/appmyfood/src/main/java/com/example/client/rest/AutenticationLoginController.java
+/home/bruno/Work/mobile/appmyfood/src/main/java/com/example/client/rest/CadastroUserController.java
+/home/bruno/Work/mobile/appmyfood/src/main/java/com/example/core/entity/Usuario.java
+/home/bruno/Work/mobile/appmyfood/src/main/java/com/example/service/CadastroUserService.java
+/home/bruno/Work/mobile/appmyfood/src/main/java/com/example/client/rest/FoodController.java
+/home/bruno/Work/mobile/appmyfood/src/main/java/com/example/service/AutenticationLoginService.java
+/home/bruno/Work/mobile/appmyfood/src/main/java/com/example/AppMyFoodApplication.java
+/home/bruno/Work/mobile/appmyfood/src/main/java/com/example/security/SecurityAutentication.java
+/home/bruno/Work/mobile/appmyfood/src/main/java/com/example/service/FoodService.java
+/home/bruno/Work/mobile/appmyfood/src/main/java/com/example/core/repository/FoodRepository.java
+/home/bruno/Work/mobile/appmyfood/src/main/java/com/example/core/repository/AutenticationLoginRepository.java
+/home/bruno/Work/mobile/appmyfood/src/main/java/com/example/core/repository/CadastroUserRepository.java

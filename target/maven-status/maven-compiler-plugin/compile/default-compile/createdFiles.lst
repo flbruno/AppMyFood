@@ -1,0 +1,13 @@
+com/example/core/repository/AutenticationLoginRepository.class
+com/example/client/rest/AutenticationLoginController.class
+com/example/core/entity/Usuario.class
+com/example/client/rest/FoodController.class
+com/example/core/repository/FoodRepository.class
+com/example/security/SecurityAutentication.class
+com/example/core/repository/CadastroUserRepository.class
+com/example/client/rest/CadastroUserController.class
+com/example/service/CadastroUserService.class
+com/example/service/FoodService.class
+com/example/AppMyFoodApplication.class
+com/example/core/entity/Food.class
+com/example/service/AutenticationLoginService.class
